@@ -15,10 +15,10 @@ This tool provides visibility into live TCP connections, particularly those wher
 ## Screenshots
 
 ### Reverse Shell Session (Ubuntu to Windows)
-![Reverse Shell Active](screenshots/shell-connection.png)
+![Reverse Shell Active](shell-connection.png)
 
 ### Detector Catching the Connection
-![Detection Output](screenshots/detection-output.png)
+![Detection Output](detection-output.png)
 
 ## Skills Demonstrated
 
